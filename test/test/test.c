@@ -1,0 +1,11 @@
+#define _CRT_SECURE_NO_WARNINGS 1
+
+#include <studio.h>
+
+int main()
+{
+
+	printf("hello world\n")
+
+		return 0;
+}
